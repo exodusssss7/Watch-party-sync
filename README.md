@@ -2,7 +2,10 @@
 
 A synchronized movie theater in the browser. Watch videos together in real time with live rooms, synced playback and chat — everyone sees the same frame at the same moment.
 
-**Live demo:** https://watch-party-sync.onrender.com
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://sculptural-object-directory.onrender.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Node](https://img.shields.io/badge/Node-20-green)
+
+
+**Live demo:** https://sculptural-object-directory.onrender.com
 
 ## Features
 
