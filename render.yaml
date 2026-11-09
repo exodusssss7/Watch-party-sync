@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: sculptural-object-directory
+    env: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: 20
+      - key: PORT
+        value: 10000

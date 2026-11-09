@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist Sync Theater",
+  "description": "A premium monochrome synchronized movie theater and video streaming platform with live social lobbies, active viewer lists, and tactile soundstage calibration controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
